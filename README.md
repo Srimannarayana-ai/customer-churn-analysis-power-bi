@@ -12,6 +12,7 @@ Here is a screenshot of the final Power BI dashboard summarizing the insights.
 
 ![Power BI Dashboard](Churn-PowerBi-Dashboard.png)
 
+
 ## Tools Used
 - **Python:** for data cleaning and analysis.
   - Libraries: Pandas, Matplotlib, Seaborn
