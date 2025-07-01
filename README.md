@@ -10,7 +10,7 @@ This project analyzes a fictional telecom dataset to identify key drivers of cus
 ## Dashboard
 Here is a screenshot of the final Power BI dashboard summarizing the insights.
 
-![Power BI Dashboard](Churn PowerBi Dashboard.png)
+![Power BI Dashboard](image_908edc.png)
 
 ## Tools Used
 - **Python:** for data cleaning and analysis.
