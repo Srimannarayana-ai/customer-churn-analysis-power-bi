@@ -10,8 +10,8 @@ This project analyzes a fictional telecom dataset to identify key drivers of cus
 ## Dashboard
 Here is a screenshot of the final Power BI dashboard summarizing the insights.
 
-![Power BI Dashboard]
-(https://github.com/Srimannarayana-ai/customer-churn-analysis-power-bi/blob/main/Churn%20PowerBi%20Dashboard.png)
+![Power BI Dashboard](Churn-PowerBi-Dashboard.png)
+
 
 ## Tools Used
 - **Python:** for data cleaning and analysis.
