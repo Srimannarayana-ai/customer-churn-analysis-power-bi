@@ -1,0 +1,8 @@
+# Ignore Python's virtual environment
+.venv/
+
+# Ignore data files
+*.csv
+
+# Ignore Power BI project file
+*.pbix
