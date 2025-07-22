@@ -1,4 +1,4 @@
-# Customer Churn Analysis and Predictive Modeling
+# Customer Churn Analysis and Prediction
 
 This project analyzes a telecom dataset to identify key drivers of customer churn. The analysis includes data cleaning, building a predictive machine learning model in Python, and presenting the final results in an interactive Power BI dashboard.
 
